@@ -1,3 +1,2 @@
 2e volet de la fameuse saga "Git test"
-peu concluant pour le moment
-Essayons de mettre ça dans la deuxième branche 
+J'aimerais fusionner avec master 
